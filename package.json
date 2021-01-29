@@ -1,6 +1,6 @@
 {
   "name": "afilters.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Library to create advanced filters",
   "main": "./src/index.js",
   "exports": {
@@ -14,7 +14,7 @@
     "lint:fix": "eslint src --fix",
     "prettier": "prettier --write src/**/*.js",
     "prepublishOnly": "npm run test",
-    "doc": "jsdoc --output=doc"
+    "generate-docs": "documentation build src/** -f html -o docs"
   },
   "repository": {
     "type": "git",
