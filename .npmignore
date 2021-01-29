@@ -117,5 +117,7 @@ test/
 img/
 docs/
 
+.eslintrc.js
 examples
 README.md
+CNAME
