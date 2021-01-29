@@ -4,7 +4,7 @@
 </p>
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/dmytrohoi/afilters.js) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dmytrohoi/afilters.js/dev/jest/main) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dmytrohoi/afilters.js) ![GitHub](https://img.shields.io/github/license/dmytrohoi/afilters.js)
+![GitHub top language](https://img.shields.io/github/languages/top/dmytrohoi/afilters.js) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dmytrohoi/afilters.js/dev/jest/main) ![Codecov](https://img.shields.io/codecov/c/github/dmytrohoi/afilters.js) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dmytrohoi/afilters.js) ![GitHub](https://img.shields.io/github/license/dmytrohoi/afilters.js)
 
 -----
 
