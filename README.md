@@ -4,7 +4,7 @@
 </p>
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/dmytrohoi/afilters.js) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dmytrohoi/afilters.js/dev/jest/main) ![Codecov](https://img.shields.io/codecov/c/github/dmytrohoi/afilters.js) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dmytrohoi/afilters.js) ![GitHub](https://img.shields.io/github/license/dmytrohoi/afilters.js)
+![GitHub top language](https://img.shields.io/github/languages/top/dmytrohoi/afilters.js) [![npm](https://img.shields.io/npm/v/afilters.js)](https://www.npmjs.com/package/afilters.js) ![npm](https://img.shields.io/npm/dm/afilters.js) ![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/npm/afilters.js) ![node-current](https://img.shields.io/node/v/afilters.js) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dmytrohoi/afilters.js/dev/jest/main) ![Codecov](https://img.shields.io/codecov/c/github/dmytrohoi/afilters.js) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dmytrohoi/afilters.js) ![GitHub](https://img.shields.io/github/license/dmytrohoi/afilters.js)
 
 -----
 
@@ -36,7 +36,13 @@ new Filter({ filters: [(a, b) => a > b] }).try(1, 0).finally((a) => console.log(
 
 ```
 
+More [examples here](https://github.com/dmytrohoi/afilters.js/tree/main/examples).
+
+
 Links
 =====
 
-[Website](https://dmytrohoi.github.io/afilters)
+- [Website](https://afilters.js.org/)
+
+- [NPM](https://www.npmjs.com/package/afilters.js)
+

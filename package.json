@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/dmytrohoi/afilters.js/issues"
   },
-  "homepage": "https://github.com/dmytrohoi/afilters.js#readme",
+  "homepage": "https://afilters.js.org/",
   "runkitExampleFilename": "./examples/filter.js",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
